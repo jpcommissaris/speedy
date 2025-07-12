@@ -1,0 +1,2 @@
+- Add pause & quit btns
+- Add list of recent network logs with more details (wheres the usage coming from?)
