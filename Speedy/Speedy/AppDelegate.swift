@@ -60,7 +60,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         menu.removeAllItems()
 
         let header = NSMenuItem()
-        header.title = "Recent Traffic"
+        header.title = updateMode == .paused ? "Recent Traffic (paused)" : "Recent Traffic"
         header.isEnabled = false
         menu.addItem(header)
 
