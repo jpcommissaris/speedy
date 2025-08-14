@@ -1,3 +1,5 @@
+Speedy.xcodeproj/
+
 # Xcode
 build/
 DerivedData/
@@ -54,3 +56,4 @@ playground.xcworkspace
 *.orig
 .DS_Store
 .env
+
